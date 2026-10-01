@@ -1,0 +1,12 @@
+# Mój pierwszy agent — karta obserwacji
+
+- Narzędzie i model: antigravity (cursor nie działa ponieważ jest przekroczony jakiś limit darmowych kont na tym urządzeniu.)
+- Moje zadanie (2–3 zdania):create a simple snake game that counts your points and remembers your highest score. It has to be an application but cannot be a web app. If you can make the background a diluted checker board 
+- Pierwsza wiadomość (wklejona co do znaku): nic mi nie odpowiedział tylko zaczął generować
+- Co agent zrobił najpierw: Ran get-childitem -force
+- O co pytał — i co zostało zatwierdzone bez czytania: pytał tylko o uprawnienia przy dosłownie każdym kroku pracy
+- Pierwszy błąd i co agent z nim zrobił: -
+- Stan po 25 minutach: działa 
+- Skąd wiem, że aplikacja działa (co zostało sprawdzone): przetestowałam grę
+- Rzeczy, które agent zrobił, a których nie rozumiem: -
+- Jak mi się wydawało, że poszło (jedno zdanie): Wydaje mi się ze poszło dobrze 
